@@ -1,4 +1,4 @@
-# Free Dictionary App
+#  Dictionary App
 
 ![App Screenshot](assets/Screen.png)
 
