@@ -1,6 +1,6 @@
 # Free Dictionary App
 
-![App Screenshot](assets/screen.png)
+![App Screenshot](assets/Screen.png)
 
 Welcome to the Free Dictionary App, a free online English dictionary. This web application is designed to help you look up and get detailed information about English words, including pronunciation, meaning, and usage examples.
 
